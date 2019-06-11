@@ -2,12 +2,14 @@
 
 ## Was ist OERtools?
 
-Bei OERtools handelt es sich um ein anpassbares Workshopkonzept für Einsteiger/innen über Werkzeuge zur Erstellung freier Bildungsmaterialien (OER). Gestaltet und erstmalig eingesetzt wurde es zum OERcamp 2019 in Lübeck.
+Bei OERtools handelt es sich um ein anpassbares Workshopkonzept. Ziel des Workshops ist es, Einsteiger/innen ins Thema OER einen Überblick über Werkzeuge zur Erstellung freier Bildungsmaterialien (OER) zu geben und diese gemeinsam praktisch auszuprobieren. Gestaltet und erstmalig eingesetzt wird das Konzept zum OERcamp 2019 in Lübeck.
 
 ## Wie kann ich OERtools nutzen?
 
 Die Online-Version von OERtools befindet sich [auf der Website oertools.de](https://oertools.de).
-Die dazugehörige Präsentations-Jeopardy-Tafel (zur Auflockerung des Workshops angereichert mit wOERdspielen) findet sich bei [Glitch](https://oertools.glitch.me). Das Konzept kann damit direkt eingesetzt werden.
+Die dazugehörige Präsentations-Jeopardy-Tafel (zur Auflockerung des Workshops angereichert mit wOERdspielen) findet sich bei [Glitch](https://oertools.glitch.me).
+
+Während des Workshops wird die Jeopardy-Tafel frontal präsentiert. Reihum wird ein Feld ausgewählt. Nach dem wqOERdspiel wird die Kurzbezeichnung für ein Tool angezeigt. Diese Kurzbezeichnung kann als Code genutzt und bei oertools.de eingegeben werden. Gemeinsam wird die Beschreibung zum Tool erkundet und das Tool mithilfe einer ersten kleinen Übung ausprobiert. Danach kann das nächste Feld ausgewählt werden.
 
 ## Wie kann ich das Workshopkonzept remixen/ ändern/ weiter nutzen?
 
