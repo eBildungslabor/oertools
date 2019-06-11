@@ -1,4 +1,4 @@
 <?php
 $id = $_POST['id'];
-header("Location: /$id");
+header("https://ebildungslabor.github.io/oertools/$id");
 ?>
