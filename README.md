@@ -11,7 +11,7 @@ Die dazugehörige Präsentations-Jeopardy-Tafel (zur Auflockerung des Workshops 
 
 ## Wie kann ich das Workshopkonzept remixen/ ändern/ weiter nutzen?
 
-Lade Dir die Inhalte dieses Verzeichnisses herunter und passe an, wie Du möchtest. Bitte beachte, dass das Design der Website von [html5uo](https://html5up.net) stammt und der Credit entsprechend bestehen bleiben muss. Die Textinhalte stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Als Urheberin soll Nele Hirsch (eBildungslabor) genannt werden.
+Lade Dir die Inhalte dieses Verzeichnisses herunter und passe an, wie Du möchtest. Bitte beachte, dass das Design der Website von [HTML5Up](https://html5up.net) stammt und der Credit entsprechend bestehen bleiben muss. Die Textinhalte stehen unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Als Urheberin soll Nele Hirsch (eBildungslabor) genannt werden.
 
 
 
